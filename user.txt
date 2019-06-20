@@ -1,0 +1,10 @@
+	GROUP DETAILS:
+
+
+USER:                                          ENROLLMENT-ID:
+POOJA DEVLAL                            HPER-7040
+LALIT PUNERA                               HPER-7022
+PRACHI SHARMA                           HPER-7248
+PRAKIRTI BAWA                           HPER-5935
+
+	TO LOOK OVER THE PROJECT, START FROM THE 	mainframeproject.php
