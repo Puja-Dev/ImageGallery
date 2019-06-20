@@ -1,0 +1,42 @@
+#signup{
+	margin: 50px 250px 0 250px;
+	border: 2px solid #6699FF;
+	border-radius: 15px;
+	padding:0 40px 0 40px;
+}
+ #sign{
+    background-color: pink;
+}
+#signup #table{
+		color: #003197;
+	font-weight: bold;
+}
+#signup #h3{
+	margin: 0px;
+	margin-top: 10px;
+	color: #003197;
+}
+table #input{
+	width: 250px;
+	height: 30px;
+	border:1.5px solid grey;
+}
+#signup #td{
+	padding-bottom: 10px;
+}
+#signup #form{
+	text-align: center;
+} 
+#signup #submit{
+	width: 100px;
+	height: 35px;
+	background-color: #0066FF;
+	border-radius: 5px;
+	font-size: 20px;
+	color: white;
+	border-style: none;
+}
+img{
+	padding: 10px;
+	border-radius: 30px;
+}
